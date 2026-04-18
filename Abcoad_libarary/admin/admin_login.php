@@ -198,7 +198,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </form>
 
         <div class="back-home">
-            <a href="index.php">← Back to Home</a>
+            <a href="../index.php">← Back to Home</a>
         </div>
     </div>
 </body>
