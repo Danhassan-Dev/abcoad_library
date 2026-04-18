@@ -1,0 +1,12 @@
+/* Simple styles for OLMS */
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f7fb; color: #222; }
+.container { width: 90%; max-width: 1000px; margin: 30px auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+header { display:flex; justify-content:space-between; align-items:center; margin-bottom:20px; }
+nav a { margin-left:10px; color:#0366d6; text-decoration:none; }
+table { width:100%; border-collapse: collapse; margin-top:10px; }
+th, td { padding:8px 10px; border-bottom:1px solid #eee; text-align:left; }
+.btn { display:inline-block; padding:6px 10px; background:#0366d6; color:white; border-radius:4px; text-decoration:none; }
+.alert { padding:10px; background:#ffefc2; border-radius:4px; margin-bottom:10px; }
+.form-row { margin-bottom:10px; }
+input[type="text"], input[type="email"], input[type="password"], select { width:100%; padding:8px; border:1px solid #ddd; border-radius:4px; }
+.footer { text-align:center; margin-top:20px; color:#666; font-size:14px; }
